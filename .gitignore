@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable binaries
+friend_recommender
+*.exe        # Windows
+
+# Debug files
+*.out
+*.dSYM/      # macOS debug files
+
+# Backup / temporary files
+*~
+*.swp
+*.log
+
+# IDE specific (optional)
+.vscode/
+*.code-workspace
